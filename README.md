@@ -34,7 +34,3 @@ This project was built using HTML, CSS, and JavaScript. I started this project t
 ## Contributing
 
 If you would like to contribute to this project, please fork the repository and submit a pull request. I welcome any improvements or bug fixes.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
